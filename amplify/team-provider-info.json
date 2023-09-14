@@ -10,6 +10,11 @@
       "StackName": "amplify-backendtests-dev-92623",
       "StackId": "arn:aws:cloudformation:us-east-1:226388486048:stack/amplify-backendtests-dev-92623/4da93980-5302-11ee-9a04-0eabb10b55f3",
       "AmplifyAppId": "d2uxw8ca7rk94r"
+    },
+    "categories": {
+      "api": {
+        "backendtests": {}
+      }
     }
   },
   "prod": {
